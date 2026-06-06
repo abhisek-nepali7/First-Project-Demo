@@ -2,5 +2,8 @@
 First Project in Github <br>
 Author-Abhisek Nepali 
 <html>
-  <p><i>Hello There.</i></p>
+  <head>This content is only for educational purpose.</head>
+  <body>
+    <p><i><u>Hello There.</u></i></p>
+  </body>
 </html>
